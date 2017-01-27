@@ -1,0 +1,2 @@
+C:\Users\David\Desktop\mingw32\bin\ar.exe qc libgraphics.a  CMakeFiles/graphics.dir/raster/bmp_header.cpp.obj CMakeFiles/graphics.dir/raster/color32.cpp.obj CMakeFiles/graphics.dir/raster/raster.cpp.obj CMakeFiles/graphics.dir/color_blender.cpp.obj CMakeFiles/graphics.dir/color.cpp.obj
+C:\Users\David\Desktop\mingw32\bin\ranlib.exe libgraphics.a
